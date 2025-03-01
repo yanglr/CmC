@@ -1,5 +1,4 @@
-# CaliburnMicro-Calculator
-A simple Calculator using Caliburn.Micro (WPF with MVVM)
+# CmC
 
 Caliburn.Micro version: 3.2 (Install with Nuget in Visual Studio.)
 
